@@ -4,7 +4,6 @@ This project demonstrates a simple and visually appealing loader animation built
 
 ## Preview
 
-![Loader Preview](https://via.placeholder.com/800x400?text=Loader+Preview)
 
 ## Features
 
