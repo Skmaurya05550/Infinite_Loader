@@ -20,4 +20,4 @@ This project demonstrates a simple and visually appealing loader animation built
 
 1. Clone the repository or download the project files.
    ```bash
-   git clone https://github.com/yourusername/loader-animation.git
+   git clone https://github.com/skmaurya05550/loader-animation.git
